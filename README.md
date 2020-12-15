@@ -10,6 +10,8 @@ I'm a undergraduated student in Computer Science, learning about frontend/backen
 
 ## Some of my repositories:
 
+- :palm_tree: [Image Editor Twitter Bot](https://github.com/andrefcordeiro/image-editor-bot)
+- :eye_speech_bubble: [Twitter Search with React Native](https://github.com/andrefcordeiro/Twitter-Search-React-Native)
 
 <!--
 **andrefcordeiro/andrefcordeiro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
