@@ -1,7 +1,7 @@
 # Hi, I'm André Ferreira Cordeiro
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/andrefcordeiro)](https://github.com/andrefcordeiro)
 
-## About me:
+## About me
 
 I'm a undergraduated student in Computer Science, learning about frontend/backend development and more
 
