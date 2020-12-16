@@ -3,7 +3,7 @@
 
 ## About me
 
-I'm an undergraduated student in Computer Science, learning about frontend/backend development and more
+I'm an undergraduate student in Computer Science, learning about frontend/backend development and more
 
 :computer: Website: Working on it
 
