@@ -5,7 +5,7 @@
 
 I'm an undergraduate student in Computer Science, learning about frontend/backend development and more
 
-:computer: Website: https://andrefcordeiro.github.io
+:computer: [Website](https://andrefcordeiro.github.io)
 
 
 ## Some of my repositories:
