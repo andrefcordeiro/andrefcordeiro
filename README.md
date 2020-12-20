@@ -8,7 +8,7 @@ I'm an undergraduate student in Computer Science, learning about frontend/backen
 :computer: [Website](https://andrefcordeiro.github.io)
 
 
-## Some of my repositories:
+## Some of my repositories
 
 - :palm_tree: [Image Editor Twitter Bot](https://github.com/andrefcordeiro/image-editor-bot)
 - :eye_speech_bubble: [Twitter Search with React Native](https://github.com/andrefcordeiro/Twitter-Search-React-Native)
