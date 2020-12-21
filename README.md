@@ -11,7 +11,7 @@ I'm an undergraduate student in Computer Science, learning about frontend/backen
 ## Some of my repositories
 
 - :palm_tree: [Image Editor Twitter Bot](https://github.com/andrefcordeiro/image-editor-bot)
-- :brain: [Memory Game](https://github.com/andrefcordeiro/jogo-da-memoria)
+- :brain: [Memory Game](https://github.com/andrefcordeiro/jogo-da-memoria) + [Memory Game(backend)](https://github.com/andrefcordeiro/jogo-da-memoria-backend)
 - :eye_speech_bubble: [Twitter Search with React Native](https://github.com/andrefcordeiro/Twitter-Search-React-Native)
 - :writing_hand: [Markdown Previewer](https://github.com/andrefcordeiro/Markdown-Previewer)
 - :name_badge: [QRCode Badge Generator](https://github.com/andrefcordeiro/QRCode-Badge-Generator)
