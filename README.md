@@ -7,6 +7,7 @@ I'm an undergraduate student in Computer Science, learning about frontend/backen
 
 :computer: [Website](https://andrefcordeiro.github.io)
 
+:student: [URI profile](https://www.urionlinejudge.com.br/judge/pt/profile/365037) 
 
 ## Some of my repositories
 
