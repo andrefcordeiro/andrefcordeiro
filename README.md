@@ -7,14 +7,16 @@
 
 
 ## About me
-
 I'm an undergraduate student in Computer Science at UEL, learning about frontend/backend development and more.
+
 <div>
   
 <a href="https://andrefcordeiro.github.io" > :computer: Website </a>
 <a href="https://www.urionlinejudge.com.br/judge/pt/profile/365037"> :student: URI/Beecrowd profile </a>
   
 </div>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andrefcordeiro&theme=tokyonight)](https://github.com/andrefcordeiro/github-readme-stats)
 
 ## Some of my repositories
 - :moneybag: [Price Integration System](https://github.com/andrefcordeiro/Sistema-Integracao-de-Precos)
