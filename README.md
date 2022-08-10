@@ -16,7 +16,7 @@ I'm an undergraduate student in Computer Science at UEL, learning about frontend
   
 </div>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andrefcordeiro&theme=tokyonight)](https://github.com/andrefcordeiro/github-readme-stats) | ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=andrefcordeiro&show_icons=true&theme=tokyonight)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andrefcordeiro&theme=tokyonight)](https://github.com/andrefcordeiro/github-readme-stats)    ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=andrefcordeiro&show_icons=true&theme=tokyonight)
 
 ## Some of my repositories
 - :moneybag: [Price Integration System](https://github.com/andrefcordeiro/Sistema-Integracao-de-Precos)
