@@ -17,10 +17,3 @@ I'm an undergraduate student in Computer Science at UEL, learning about frontend
 </div>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andrefcordeiro&theme=tokyonight)](https://github.com/andrefcordeiro/github-readme-stats)    ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=andrefcordeiro&show_icons=true&theme=tokyonight)
-
-## Some of my repositories
-- :moneybag: [Price Integration System](https://github.com/andrefcordeiro/Sistema-Integracao-de-Precos)
-- :palm_tree: [Image Editor Twitter Bot](https://github.com/andrefcordeiro/image-editor-bot)
-- :brain: [Memory Game](https://github.com/andrefcordeiro/jogo-da-memoria) + [Memory Game (backend)](https://github.com/andrefcordeiro/jogo-da-memoria-backend)
-- :eye_speech_bubble: [Twitter Search with React Native](https://github.com/andrefcordeiro/Twitter-Search-React-Native)
-- :name_badge: [QRCode Badge Generator](https://github.com/andrefcordeiro/QRCode-Badge-Generator)
