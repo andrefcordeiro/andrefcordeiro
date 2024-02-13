@@ -11,7 +11,7 @@ I'm an undergraduate student in Computer Science at UEL, learning about frontend
 
 <div>
   
-<a href="https://andrefcordeiro.vercel.app/#projects" > :computer: Website </a>
+<a href="https://andrefcordeiro.vercel.app" > :computer: Website </a>
 <a href="https://www.urionlinejudge.com.br/judge/pt/profile/365037"> :student: URI/Beecrowd profile </a>
   
 </div>
