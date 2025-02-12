@@ -7,7 +7,7 @@
 
 
 ## About me
-I'm an undergraduate student in Computer Science at UEL, learning about frontend/backend development and more.
+Computer Science enthusiast, learning about frontend/backend development and more.
 
 <div>
   
